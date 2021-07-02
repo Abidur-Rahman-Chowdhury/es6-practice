@@ -1,4 +1,4 @@
-const hubby = "Elias Kanchon"; // cant not reasign
+const hubby = "Elias Kanchon"; // cant not reassign
 console.log(hubby);
 
 const num = [12, 45];
